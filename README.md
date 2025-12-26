@@ -1,3 +1,5 @@
+(Note: Repo and sample readme.md created using Github MCP server)
+
 # GitHub MCP Server Usage
 
 This repository is a demonstration of how to use the GitHub MCP (Multi-Channel Publishing) server. The MCP server is designed to facilitate the integration and deployment of multi-channel applications.
